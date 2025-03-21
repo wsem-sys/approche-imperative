@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0078a970-0043-4aa8-85d6-3debc816b3fb" name="Changes" comment="tp3-diginamic">
-      <change afterPath="$PROJECT_DIR$/src/fr/operateurs/DeclarationOperateur.java" afterDir="false" />
+    <list default="true" id="0078a970-0043-4aa8-85d6-3debc816b3fb" name="Changes" comment="tp4wsem-diginamic">
+      <change beforePath="$PROJECT_DIR$/src/fr/operateurs/DeclarationOperateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/operateurs/DeclarationOperateur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +56,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DeclarationApp.executor": "Run",
+    "Application.DeclarationOperateur.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "proofread"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
   <component name="RunManager" selected="Application.DeclarationOperateur">
@@ -114,11 +115,20 @@
       <option name="project" value="LOCAL" />
       <updated>1742553017601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tp4wsem-diginamic">
+      <option name="closed" value="true" />
+      <created>1742556031448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742556031448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tp3-diginamic" />
-    <option name="LAST_COMMIT_MESSAGE" value="tp3-diginamic" />
+    <MESSAGE value="tp4wsem-diginamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="tp4wsem-diginamic" />
   </component>
 </project>

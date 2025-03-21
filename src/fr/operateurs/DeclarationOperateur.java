@@ -28,5 +28,11 @@ public class DeclarationOperateur {
         // a += 1
         a += 1;
         System.out.println("Après a += 1, a = " + a);
+
+        // ---------------------
+        // Partie : Test de l'opérateur ternaire
+        // ---------------------
+        String c = a > 0 ? "a est plus grand que 0" : "a est inférieur à 0";
+        System.out.println("\nRésultat de l'opérateur ternaire : " + c);
     }
 }
