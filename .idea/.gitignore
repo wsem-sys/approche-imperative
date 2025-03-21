@@ -1,0 +1,29 @@
+# Ignorer les fichiers générés par IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorer les fichiers de compilation
+/out/
+*.class
+
+# Ignorer les fichiers de logs
+logs/
+*.log
+
+# Ignorer les dépendances téléchargées par Maven/Gradle
+/.mvn/
+.mvn/wrapper/maven-wrapper.jar
+target/
+build/
+!src/main/
+!src/test/
+
+/.gradle/
+/build/
+
+# Ignorer les fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers spécifiques à l'environnement
+.env
